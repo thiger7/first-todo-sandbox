@@ -16,7 +16,7 @@ const Description = () => {
           id aperiam consequuntur ipsam, distinctio nesciunt temporibus.
         </p>
       </div>
-      <div className="flex gap-4 items-center">
+      <div className="flex gap-4 justify-center items-center">
         <Button>Vite</Button>
         <Button>React</Button>
         <Button>Tailwind CSS</Button>
